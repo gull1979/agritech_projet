@@ -1,13 +1,9 @@
 ### Thème :
 
-Ce dossier est l'aboutissement du projet de fin de formation de la FullStack chez l'organisme Jedha.
-
+Ce dossier est l'aboutissement du projet de fin de formation de la FullStack chez l'organisme Jedha. 
 C'est un travail collectif réalisé au sein d'un groupe de 4 personnes.
-
 Nous avons choisi ce sujet en partant initialement d'un jeu de données en provenance du site 'kaggle', que nous avons ensuite approfondi.
-
 L'agriculture est un domaine qui nous a fédéré.
-
 En faire la prédiction pour du rendement de récoltes a été un beau challenge.
 
 ### Contenu :
