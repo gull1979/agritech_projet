@@ -15,7 +15,8 @@ Chronologiquement ils s'articulent ainsi :
 <br>
 <br>C'est le point de départ en partant de 2 sources, à savoir :
 * la FAOstat ( Organisation des Nations Unies pour l'alimentation et l'agriculture)
-* la CRU (Unité de recherche Climatique)<br>
+* la CRU (Unité de recherche Climatique)
+
 L'agrégation de ces éléments ( Pays / Récoltes / Rendement / Nutriment / Pesticides / Climat) sur 124 ans ont constitué la base de données initiale.
 
 2 - EDA_26_06_04.ipynb :
