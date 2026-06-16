@@ -15,7 +15,9 @@ C’est le point de départ en partant de 2 sources, à savoir
 -	la FAOstat ( Organisation des Nations Unies pour l’alimentation et l’agriculture)
 -	la CRU (Unité de recherche Climatique)
 L’agrégation de ces éléments ( Pays / Récoltes / Rendement / Nutriment / Pesticides / Climat) sur 124 ans ont constitué la base de données initiale.
+
 2 - EDA_26_06_04.ipynb
 C’est à cette étape que l’on a mis à plat les données pour leurs donner du sens et les rendre compatible avec l’apprentissage d’un modèle d’IA.
+
 3 - ML_26_06_10.ipynb
 Voici la partie apprentissage, avec pas moins de 4 modèles testés et paramétrés pour donnée le meilleur d’eux-même.
